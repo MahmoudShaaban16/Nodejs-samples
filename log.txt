@@ -1,0 +1,2 @@
+writing to the log here
+msg 2
